@@ -2,46 +2,26 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome! 👋
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the Exeter Design Lab, a space open for all students to make and create!
 
-## Getting Started
+## Location
 
-Get started by **creating a new site**.
+The "lab" is located on the top floor of the Science Building in the Physics wing.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Canvas
 
-### What you'll need
+Join the Design Lab Canvas here:
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Facilities
 
-## Generate a new site
+The Exeter Design Lab has many power tools and manufacturing capabilities, such as:
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Two Prusa MK3S 3D Printers, intranet-connected with Octoprint
+- Stepcraft M.600 CNC Mill (work in progress)
+- 60W CO2 Universal Systems Laser Cutter
+- Cricut Maker 3
+- Soldering station with Pinecil V2s
+- Sewing station equipped with Singer sewing machines
+- Assortment of power tools

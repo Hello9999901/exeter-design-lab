@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Open to Create',
+    Svg: require('@site/static/img/undraw_deconstructed_alud.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The Exeter Design Lab is a space for anybody to create and make with creativity and freedom.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Expansive Capabilities',
+    Svg: require('@site/static/img/undraw_making_art_re_ee8w.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Equipped with a variety of CNC tools - a CNC Mill, FDM Printers, a Cricut Cutter and a laser cutter, the "lab" is equipped with tools to make projects of your imagination.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Team Based Efforts',
+    Svg: require('@site/static/img/undraw_engineering_team_a7n2.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Whether you are an seasoned robotics team or hopeful maker, the Exeter Design Lab focuses on team oriented efforts to create.
       </>
     ),
   },
