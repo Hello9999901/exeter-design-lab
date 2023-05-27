@@ -10,9 +10,15 @@ Welcome to the Exeter Design Lab, a space open for all students to make and crea
 
 The "lab" is located on the top floor of the Science Building in the Physics wing.
 
+## Sign In
+
+Please sign into the computer when you enter!
+
 ## Canvas
 
-Join the Design Lab Canvas here:
+Join the Design Lab Canvas [here](https://exeter.instructure.com/enroll/GTPEXY)
+
+[https://exeter.instructure.com/enroll/GTPEXY](https://exeter.instructure.com/enroll/GTPEXY)
 
 ## Facilities
 

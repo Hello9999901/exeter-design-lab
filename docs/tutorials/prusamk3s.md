@@ -6,7 +6,7 @@ sidebar_position: 1
 
 There are two Prusa MK3S 3D printers in the lab towards the back corner.
 
-![Prusa](./assets/prusamk3s.jpg)
+![Prusa](./assets/3dp/prusamk3s.jpg)
 *Prusa MK3S FDM printer*
 
 ## How to Use
@@ -23,28 +23,28 @@ If for any reason you cannot download PrusaSlicer on your personal computer, you
 
 :::
 
-![PrusaSlicer download website screenshot](./assets/prusaslicerdownload.png)
+![PrusaSlicer download website screenshot](./assets/3dp/prusaslicerdownload.png)
 *Download the [latest PrusaSlicer software](https://www.prusa3d.com/page/prusaslicer_424/)*
 
 ## Settings
 
 In the setup wizard, select **Original Prusa MK3S & MK3S+** with the **0.4mm nozzle** option. This is what the printers use.
 
-![PrusaSlicer setup](./assets/prusaslicersetup.png)
+![PrusaSlicer setup](./assets/3dp/prusaslicersetup.png)
 
 With the software set up, drag in your STL file:
 
-![PrusaSlicer STL](./assets/prusaslicerdraginstl.png)
+![PrusaSlicer STL](./assets/3dp/prusaslicerdraginstl.png)
 
 ## [Overhangs/Supports](https://all3dp.com/1/3d-printing-support-structures/)
 
 [Overhangs](https://all3dp.com/1/3d-printing-support-structures/) are when your 3D model has sections that are floating in mid air. As you might be able to imagine, these can't be printed without adding **supports!**
 
-![Overhangs](./assets/overhang.jpg)
+![Overhangs](./assets/3dp/overhang.jpg)
 
 If there are [overhangs](https://all3dp.com/1/3d-printing-support-structures/), then add supports within PrusaSlicer:
 
-![Add Supports in PrusaSlicer](./assets/prusasliceraddsupports.png)
+![Add Supports in PrusaSlicer](./assets/3dp/prusasliceraddsupports.png)
 
 ## Brim
 
@@ -54,13 +54,13 @@ If the surface area to the base of the print is smaller than a quarter, a brim i
 
 There are countless configurations within PrusaSlicer that can be adjusted for the perfect print. To read more on that, feel free to browse the [Prusa 3D documentation](https://help.prusa3d.com/category/print-settings_212). However, everyone is busy here, so here are safe go-to settings (be sure to read the "Brim" and "Overhangs/Supports" sections above to see if you need either):
 
-![Best Prusa Slicer settings](./assets/prusaslicerbestsettings.png)
+![Best Prusa Slicer settings](./assets/3dp/prusaslicerbestsettings.png)
 
 ## Compiling `gcode`
 
 Press `CTRL+G` (Windows), `CMD+G` (macOS) or `META+G` (Linux) to export the `gcode` to your computer.
 
-![Saving gcode](./assets/prusaslicersavinggcode.png)
+![Saving gcode](./assets/3dp/prusaslicersavinggcode.png)
 
 ## Uploading to the Printer
 
@@ -70,11 +70,11 @@ In the future, both printers will use OctoPrint, which is cloud connected. For n
 
 2. If you don't have an SD card reader, use one of the laptops lying around the lab. Transfer the `gcode` from your computer to one of the lab's laptops and do step 1. *If you are already using a Design Lab laptop, just insert the SD card and transfer the `gcode`*.
 
-![Prusa SD card](./assets/prusasdcard.png)
+![Prusa SD card](./assets/3dp/prusasdcard.png)
 
 :::note
 
-![SD card locked](./assets/sdcardlocked.png)
+![SD card locked](./assets/3dp/sdcardlocked.png)
 
 :::
 
@@ -97,3 +97,7 @@ The gray-ish bed on the printer can be lifted away from the printer. Once remove
 :::
 
 Happy Printing!
+
+![Prusa MK3S QR Code](./assets/3dp/prusamk3s_qrcode.png)
+
+*QR code for this page*
