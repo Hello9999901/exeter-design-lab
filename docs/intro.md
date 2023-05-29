@@ -26,7 +26,7 @@ The Exeter Design Lab has many power tools and manufacturing capabilities, such 
 
 - Two Prusa MK3S 3D Printers, intranet-connected with Octoprint
 - Stepcraft M.600 CNC Mill (work in progress)
-- 60W CO2 Universal Systems Laser Cutter
+- 60W CO2 Universal Laser Systems Laser Cutter
 - Cricut Maker 3
 - Soldering station with Pinecil V2s
 - Sewing station equipped with Singer sewing machines
